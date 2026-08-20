@@ -12,7 +12,7 @@ title                    : "Dongbo Peng - Homepage"
 title_separator          : "-"
 name                     : &name "Dongbo Peng"
 description              : &description "Postdoc at New Mexico State Univeristy"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "[https://curtispeng123.github.io](https://curtispeng123.github.io)"
+url                      : "https://curtispeng123.github.io" # the base hostname & protocol for your site e.g. "[https://curtispeng123.github.io](https://curtispeng123.github.io)"
 baseurl                  : "/dongbopeng" # the subpath of your site, e.g. "/blog"
 repository               : "CurtisPeng123/dongbopeng"
 
